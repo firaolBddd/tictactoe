@@ -1,4 +1,9 @@
- #include  <iostream>
+//Firaol Berehanu 
+//10/3/2023
+//This code is to maake a game of tictacto in c++
+//using pointers and arrays
+
+#include  <iostream>
 #include <cctype>
 #include <cstring>
 using namespace std;
